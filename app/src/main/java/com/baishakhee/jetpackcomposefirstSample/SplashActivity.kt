@@ -27,6 +27,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.baishakhee.jetpackcomposefirstSample.ui.theme.JetpackComposeTheme
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import com.baishakhee.jetpackcompose.R
 import kotlinx.coroutines.MainScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
